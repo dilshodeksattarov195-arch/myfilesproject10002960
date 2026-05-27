@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "useruonnect",
+        "uuid": 9513440,
+        "checksum": "cv3pzl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
